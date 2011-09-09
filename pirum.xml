@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+	<name>ocubom.github.com/pear</name>
+	<summary>ocubom's PEAR Channel Server</summary>
+	<alias>ocubom</alias>
+	<url>http://ocubom.github.com/pear</url>
+</server>
